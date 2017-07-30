@@ -1,4 +1,2 @@
 # spoon
-	Spoon is C-PERL-based software for performing in silico PCR on PCR primers and genomic sequences. Spoon software simulates PCR reaction by running an approximate-match searching analysis on a user-entered primer pairs against the provided sequences. It reports amplimers close or adjoin genes, SNPs, SSR and other user-provided genomic elements. It also reports PCR amplimers that are shared between in vitro and in silico PCR results in order to select the most appropriate amplimers for gene discovery. Spoon could be used for comparing physical and genetic maps and to study the primer set genome coverage for PCR-walking and NGS sequencing filling gaps using Sanger sequencing. It also reports chromosomal anchored markers, which could be used for linkage and association mapping. In addition to human-readable output files, Spoon creates Circos configurations illustrates different in silico results, which will give the user the ability to merge different bioinformatics tools results with/without slight reformatting procedures.
-  Have fun
-  Samman
+sh install.sh
