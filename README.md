@@ -1,2 +1,0 @@
-# spoon
-sh install.sh
