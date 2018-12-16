@@ -9,10 +9,10 @@ sudo sh Install.sh
 perl Spoon.pl
 or
 Spoon-without-GUI.pl  CONFIGURATION-FILE  
-
 For tutorial Please watch this vedio:
 https://youtu.be/hLPcLNej4z4
-
+# For windows
+Run through EXE
 
 # License
 Spoon is free no license is required
