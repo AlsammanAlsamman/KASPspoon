@@ -20,3 +20,6 @@ Spoon is free no license is required
 # For Bugs please contact 
 
 Smahmoud@ageri.sci.eg 
+
+#Cite :
+Alsamman, M.A., Ibrahim, S.D. and Hamwieh, A., 2019. KASPspoon: an in vitro and in silico PCR analysis tool for high-throughput SNP genotyping. Bioinformatics.btz004.
